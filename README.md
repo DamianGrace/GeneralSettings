@@ -1,0 +1,4 @@
+GeneralSettings
+===============
+
+Storage of stuff
