@@ -1,0 +1,22 @@
+{
+	"bold_folder_labels": true,
+	"tab_size": 2,
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"font_face": "Inconsolata-dz",
+	"font_size": 11.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 0.5,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	]
+}
