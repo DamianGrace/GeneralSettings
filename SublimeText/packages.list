@@ -1,6 +1,7 @@
 Package Control - https://sublime.wbond.net/installation
 
 packages = [
+  "Soda",
   "SCSS",
   "RSpec",
   "Git",
