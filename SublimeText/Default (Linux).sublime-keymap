@@ -1,4 +1,4 @@
 [
 	{ "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} },
-	{"keys": ["ctrl+shift+space"], "command": "run_macro_file", "args": {"file": "Packages/User/MoveBackOneSpace.sublime-macro"} }
+	{"keys": ["ctrl+shift+space"], "command": "move", "args": {"by": "characters", "forward": false} }
 ]
