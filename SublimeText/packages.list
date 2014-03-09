@@ -1,0 +1,14 @@
+Package Control - https://sublime.wbond.net/installation
+
+packages = [
+  "SCSS",
+  "RSpec",
+  "Git",
+  "ApplySyntax" ]
+
+
+packages.each do | package |
+  ctrl+shift+P > type install > enter
+  packages > enter
+end
+
